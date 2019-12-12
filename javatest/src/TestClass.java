@@ -1,1 +1,6 @@
-ç–“Rg+LËè]<ÕSUƒ|Úpëð”Q£'µÛlèn†Òüº‘6ì/»sÙ;W‡{~ž¾}í2v.¤žÈŽ°ë]}sõÒ9}Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.Ù;W‡{~ž¾}í2v.ÂO.g”N=ÜÃÈ«Žáøˆ8ñ&’¥}ÈOËth‰õAî;¡ó¶`þÁˆs©<žŒñš—ìÙQ°î=¨=²¢ öP°¼úB,?'ŽÉÛïbÁPjN˜!®ÊÁLþý|Ùn Êæ|t3Ïöh'Æ±4ÇÉ,·Afš/Ÿ¶{ièFkhù'ÐôS‹®øBµXîè^À"›æ~«ì9ÏãŠÇ1nc»´'ðôÈk#
+public class TestClass {
+    public static  void main(String[] args){
+        String aa="1231";
+        System.out.println("--------------");
+    }
+}
